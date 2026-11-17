@@ -3,3 +3,5 @@
 mandel
 *.jpg
 *.mpg
+output.mp4
+output/*
